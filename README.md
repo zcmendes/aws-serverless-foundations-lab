@@ -11,7 +11,7 @@ Build a serverless solution capable of processing customer feedback without prov
 ## AWS Services Used
 
 - AWS Lambda
-- IAM
+- AWS Identity and Access Management (IAM)
 - Amazon CloudWatch
 
 ## Architecture
@@ -41,6 +41,14 @@ Architecture diagram to be added.
 - Automatic scaling
 - Pay-per-use architecture
 
+## Future Improvements
+
+- Add architecture diagram
+- Upload Lambda source code
+- Add screenshots of deployment and testing
+- Include CloudWatch log examples
+
 ## Author
 
-Ze Mendes
+**Ze Mendes**  
+Cloud & Security Professional
