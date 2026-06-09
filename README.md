@@ -16,7 +16,7 @@ Build a serverless solution capable of processing customer feedback without prov
 
 ## Architecture
 
-Architecture diagram to be added.
+![Architecture](images/aws-serverless-foundations-lab.png)
 
 ## Solution Flow
 
