@@ -6,6 +6,8 @@
 ![Serverless](https://img.shields.io/badge/Architecture-Serverless-green)
 ![CloudWatch](https://img.shields.io/badge/Amazon-CloudWatch-blue)
 
+This project was developed as part of the AWS Skill Builder Serverless Foundations Lab and demonstrates the deployment, testing, and monitoring of an AWS Lambda function using a serverless architecture.
+
 ## Overview
 
 This project demonstrates the implementation of a serverless application using AWS Lambda and Python to process visitor feedback in real time, providing a scalable and cost-effective cloud solution.
