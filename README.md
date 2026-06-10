@@ -1,18 +1,26 @@
 # AWS Serverless Foundations Lab
 
+
+![AWS](https://img.shields.io/badge/AWS-Lambda-orange)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Serverless](https://img.shields.io/badge/Architecture-Serverless-green)
+![CloudWatch](https://img.shields.io/badge/Amazon-CloudWatch-blue)
+
 ## Overview
 
-This project demonstrates a serverless architecture using AWS Lambda and Python to process visitor feedback in real time.
+This project demonstrates the implementation of a serverless application using AWS Lambda and Python to process visitor feedback in real time, providing a scalable and cost-effective cloud solution.
 
 ## Objective
 
 Build a serverless solution capable of processing customer feedback without provisioning or managing servers.
 
-## AWS Services Used
+## Technologies
 
+- Python
 - AWS Lambda
-- AWS Identity and Access Management (IAM)
+- IAM
 - Amazon CloudWatch
+- Serverless Architecture
 
 ## Architecture
 
@@ -34,6 +42,33 @@ Build a serverless solution capable of processing customer feedback without prov
 - Event Processing
 - Cloud Monitoring
 
+## Screenshots
+
+### Lambda Function
+
+AWS Lambda function successfully deployed and configured.
+
+![Lambda Function](images/lambda-function-created.jpg)
+
+### Lambda Test Execution
+
+Lambda function executed successfully using a test event.
+
+![Lambda Test](images/lambda-test-result.jpg)
+
+### CloudWatch Log Events
+
+CloudWatch logs generated during Lambda execution.
+
+![CloudWatch Logs](images/cloudwatch-log-events.jpg)
+
+## Project Outcomes
+
+- Successfully deployed an AWS Lambda function
+- Processed events through synchronous invocation
+- Validated execution using test events
+- Monitored execution through Amazon CloudWatch Logs
+
 ## Lessons Learned
 
 - Understanding AWS Lambda execution model
@@ -43,10 +78,17 @@ Build a serverless solution capable of processing customer feedback without prov
 
 ## Future Improvements
 
-- Add architecture diagram
 - Upload Lambda source code
-- Add screenshots of deployment and testing
-- Include CloudWatch log examples
+- Add additional test scenarios
+- Implement error handling and validation
+- Integrate with API Gateway
+
+## Project Information
+
+- Platform: AWS Skill Builder
+- Lab: Serverless Foundations
+- Completion Date: June 2026
+
 
 ## Author
 
