@@ -56,6 +56,15 @@ aws-serverless-foundations-lab/
 - Event Processing
 - Cloud Monitoring
 
+## Source Code
+
+The Lambda function source code is available in:
+
+```text
+src/lambda_function.py
+
+```
+
 ## Screenshots
 
 ### Lambda Function
