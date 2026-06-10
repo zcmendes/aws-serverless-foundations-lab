@@ -24,6 +24,18 @@ Build a serverless solution capable of processing customer feedback without prov
 - Amazon CloudWatch
 - Serverless Architecture
 
+## Project Structure
+
+```text
+aws-serverless-foundations-lab/
+│
+├── images/
+├── src/
+│   └── lambda_function.py
+├── LICENSE
+└── README.md
+```
+
 ## Architecture
 
 ![Architecture](images/aws-serverless-foundations-lab.png)
